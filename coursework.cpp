@@ -152,7 +152,6 @@ void show()
 				texture = SDL_CreateTextureFromSurface(renderer, surface);
 				SDL_QueryTexture(texture, NULL, NULL, &w, &h);
 				text(font_size * 2 + w / 2, height / 12 + k, tmp.c_str(), font_size, false, rect);
-
 				tmp = "";
 				k += font_size;
 			}
