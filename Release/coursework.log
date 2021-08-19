@@ -1,0 +1,23 @@
+﻿  coursework.cpp
+C:\VS\progs\coursework\additional_code.cpp(403,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(421,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(442,10): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(481,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(507,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(536,10): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(575,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(607,10): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(630,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(652,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(696,10): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\additional_code.cpp(729,11): warning C4552: "+": результат выражения не используется
+C:\VS\progs\coursework\coursework.cpp(97,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VS\progs\coursework\coursework.cpp(98,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VS\progs\coursework\coursework.cpp(147,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\VS\progs\coursework\coursework.cpp(242,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 146 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  coursework.vcxproj -> C:\VS\progs\coursework\Release\coursework.exe
